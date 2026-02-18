@@ -98,7 +98,7 @@ void pointersAndArrays() {
     std::cout << "After modification through pointer: ";
     // TODO: Print 'value' directly to show it changed
     // Expected output: "value is now: 99"
-	std::cout << value << '\n';
+	std::cout << "value is now: " << value << '\n';
     // --- 4. Pointer arithmetic ---
     // ? SEE DIAGRAM: images/array_in_memory.png — shows pointer arithmetic on the array
     std::cout << "\n--- 4. Pointer Arithmetic ---" << '\n';
